@@ -2,14 +2,15 @@
 Project made for Enversed, based in Eindhoven. Concept credit goes to them.
 
 ## How to setup project
-* Clone the repo;
-* Download `Stylized Desert Environment` from Marketplace (https://www.unrealengine.com/marketplace/stylized-desert-environment);
+1. Clone the repo;
+2. Download `Stylized Desert Environment` from Marketplace (https://www.unrealengine.com/marketplace/stylized-desert-environment);
     - Not included in git due to some filesizes exceeding 100mb.
     - Asset pack is free at time of writing.
-* Open project using Unreal Engine 4.19.2;
-* Move added `StylizedDesertEnv` folder into the `External` folder.
-* ???
-* Profit!
+3. Open project using Unreal Engine 4.19.2;
+4. Move added `StylizedDesertEnv` folder into the `External` folder.
+    - **!IMPORTANT! Move the folder through Unreal Engine, not through your file explorer!**
+5. ???
+6. Profit!
 
 ## Playing the game
 * Room setup should be 2x4 meters for optimal experience.
