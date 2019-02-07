@@ -78,3 +78,6 @@ DerivedDataCache/*
 
 # Unreal build
 WindowsNoEditor/*
+
+# Don't include desert asset
+Content/External/StylizedDesertEnv/*
